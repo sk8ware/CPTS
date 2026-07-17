@@ -114,7 +114,3 @@ La ruta incluye módulos relacionados con:
     
 - Ataques contra redes empresariales.
     
-
-## Comandos utilizados
-
-Este módulo es introductorio y no incluye comandos técnicos. Su objetivo es explicar la estructura de la ruta, la metodología de trabajo y las responsabilidades legales de un penetration tester.
